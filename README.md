@@ -1,6 +1,4 @@
-# Hi, I'm Shasha! 💗
-
-## 😄 About Me
+## 💗 About Me
 - 🎓 I'm currently studying BSc Computer Science at the University of Leeds.
 - 🌱 I’m currently learning about data analytics.
 - ⚡ Fun fact: I enjoy making pixel art!
@@ -16,6 +14,10 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-  
-## 🔗 Contact Me
+<br>
+    
+## 📊 Data Projects
+ - test
+
+<br>
 <a href="https://www.linkedin.com/in/shashaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
