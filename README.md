@@ -17,7 +17,7 @@
 <br>
     
 ## 📊 Data Projects
- - test
+ - [R: BellaBeat Case Study](https://github.com/shasha-nabila/BellaBeat-Case-Study)
 
 <br>
 <a href="https://www.linkedin.com/in/shashaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
