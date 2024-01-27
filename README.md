@@ -19,7 +19,7 @@
 
 ## 📊 Data Projects
  - [R: BellaBeat Case Study](https://github.com/shasha-nabila/BellaBeat-Case-Study)
- - [SQL + Tableau: Pizza Sales Report]()
+ - [SQL + Tableau: Pizza Sales Report](https://github.com/shasha-nabila/Pizza-Sales_Report)
 <br>
 
 ## 🌟 University Projects
