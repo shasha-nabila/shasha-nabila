@@ -26,4 +26,5 @@
 - [Python: Flask Web Application](https://github.com/shasha-nabila/Flask-Web-App)
 <br>
 <br>
-<a href="https://www.linkedin.com/in/shashaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashaa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="100" /></a>
+<a href="https://www.linkedin.com/in/shashaa/" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau" height="30" width="100" /></a>
