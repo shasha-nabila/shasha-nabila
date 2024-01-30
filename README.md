@@ -29,3 +29,4 @@
 <br>
 <a href="https://www.linkedin.com/in/shashaa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="100" /></a>
 <a href="https://public.tableau.com/app/profile/shasha.nabila.binti.al.malek.faisal/vizzes" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau" height="30" width="100" /></a>
+<a href="https://lospec.com/shasha-nabila" target="blank"><img align="center" src="./images/lospec.png" alt="lospec" height="20" width="100" /></a>
