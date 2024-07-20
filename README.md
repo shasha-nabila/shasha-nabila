@@ -1,6 +1,6 @@
 ## 💗 About Me
 - 🎓 I'm currently studying BSc Computer Science at the University of Leeds.
-- 🌱 I’m interested in data.
+- 🤓 I like data.
 - ⚡ Fun fact: I enjoy making pixel art!
 <br>
 
@@ -12,8 +12,8 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 <br>
 
