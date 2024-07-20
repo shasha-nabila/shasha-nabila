@@ -1,6 +1,6 @@
 ## 💗 About Me
 - 🎓 I'm currently studying BSc Computer Science at the University of Leeds.
-- 🌱 I’m currently learning about data analytics.
+- 🌱 I’m interested in data.
 - ⚡ Fun fact: I enjoy making pixel art!
 <br>
 
@@ -25,6 +25,9 @@
 
 ## 🌟 University Projects
 - [Python: Flask Web Application](https://github.com/shasha-nabila/Flask-Web-App)
+- [Python: Data Mining Chatbot](https://github.com/shasha-nabila/Data-Mining-Chatbot)
+- [Python: Journey Tracker App](https://github.com/shasha-nabila/Journey-Tracker-App)
+- [Java: File Transfer System](https://github.com/shasha-nabila/File-Transfer-System)
 <br>
 <br>
 <a href="https://www.linkedin.com/in/shashaa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="100" /></a>
