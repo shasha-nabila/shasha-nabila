@@ -1,5 +1,5 @@
 ## 💗 About Me
-- 🎓 I'm currently studying BSc Computer Science at the University of Leeds.
+- 🎓 I'm studying BSc Computer Science at the University of Leeds.
 - 🤓 I like data.
 - ⚡ Fun fact: I enjoy making pixel art!
 <br>
