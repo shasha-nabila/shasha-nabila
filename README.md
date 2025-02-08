@@ -27,6 +27,7 @@
 - [Python: Flask Web Application](https://github.com/shasha-nabila/Flask-Web-App)
 - [Python: Data Mining Chatbot](https://github.com/shasha-nabila/Data-Mining-Chatbot)
 - [Python: Journey Tracker App](https://github.com/shasha-nabila/Journey-Tracker-App)
+- [Java: Secure Patient Records](https://github.com/shasha-nabila/Secure-Patient-Records)
 - [Java: File Transfer System](https://github.com/shasha-nabila/File-Transfer-System)
 <br>
 <br>
