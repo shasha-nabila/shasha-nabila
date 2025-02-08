@@ -24,6 +24,7 @@
 <br>
 
 ## 🌟 University Projects
+- [Python: Automated File Backup and Archival System](https://github.com/shasha-nabila/Automated-File-Backup)
 - [Python: Comparative Visualization Study](https://github.com/shasha-nabila/Comparative-Visualization)
 - [Python: Flask Web Application](https://github.com/shasha-nabila/Flask-Web-App)
 - [Python: Data Mining Chatbot](https://github.com/shasha-nabila/Data-Mining-Chatbot)
